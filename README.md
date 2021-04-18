@@ -3,16 +3,16 @@ Part of my 1 clone per day project
 This project is centered around creating a parralax effect using javascript plugins.
 
 //Gains:
-Knowledge of TweenMax which is an animation library.
-Knowledge of ScrollMagic which allows the triggering of specific animations on scroll.
-Knowledge of animation.gsap which combines the animations and scroll events. 
-Practice with setting up chained timeline animation events.
+1) Knowledge of TweenMax which is an animation library.
+2) Knowledge of ScrollMagic which allows the triggering of specific animations on scroll.
+3) Knowledge of animation.gsap which combines the animations and scroll events. 
+4) Practice with setting up chained timeline animation events.
 
 //Improvements:
 
-This page was laid out in a semi-responsive way. The design could be improved for better responsiveness.
-Media queries.
-Styling improvements
+This page was laid out in a semi-responsive way. The design could be improved for better 1) responsiveness.
+2) Media queries.
+3) Styling improvements
 
 Interesting Project Code Below******
 
