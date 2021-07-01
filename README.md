@@ -76,7 +76,7 @@ const scene = new ScrollMagic.Scene({
   .addTo(controller);
 ```
 
-This sets the effect. A few more changes were made to the timeline to fix the image scrolling behavior and margins. That code is below:
+This sets the effect. A few more changes were made to the timeline to fix the image scrolling behavior and margins. That code is below.
 ```JavaScript
 timeline
   .to(".rock", 3, { y: -300 })
